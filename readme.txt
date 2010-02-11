@@ -4,6 +4,7 @@ Donate link: http://tpoxa.com/
 Tags: comments, spam
 Requires at least: 2.0.2
 Tested up to: 2.9.1
+Stable tag: trunk
 
 That plugin provides easy renaming of user roles.
 
