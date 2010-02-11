@@ -1,7 +1,7 @@
 === Rename groups ===
 Contributors: tpoxa
 Donate link: http://tpoxa.com/
-Tags: comments, spam
+Tags: user roles
 Requires at least: 2.0.2
 Tested up to: 2.9.1
 Stable tag: trunk
