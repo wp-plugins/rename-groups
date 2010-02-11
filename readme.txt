@@ -37,3 +37,7 @@ Answer to foo bar dilemma.
 
 = 0.1 =
 Initial release
+
+== Upgrade Notice ==
+= 0.1 =
+Initial release
