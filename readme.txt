@@ -21,9 +21,6 @@ That plugin provides easy renaming of user roles.
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-
-An answer to that question.
 
 = What about foo bar? =
 
